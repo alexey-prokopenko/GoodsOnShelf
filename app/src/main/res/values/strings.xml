@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoodsOnTheShelf</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="content_description">Товар</string>
+    <string name="sum_string">Итого:</string>
+    <string name="rouble">%1$s ₽</string>
+    <string name="rouble_piece">%1$s ₽/шт</string>
+</resources>
